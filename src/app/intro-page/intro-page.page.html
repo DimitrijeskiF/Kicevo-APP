@@ -1,0 +1,56 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title class="ion-text-center">Welcome to Kicevo App</ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content>
+
+      <div>
+        <ion-slides pager="true">
+
+          <ion-slide class="ion-padding">
+            <ion-card>
+              <ion-card-header>
+                <h1 class="ion-text-center">
+                  Hi everyone!
+                </h1>
+                <img  src="assets/images/kicevo1.png">
+
+                <h3 class="ion-text-center" >
+                  By using this application you can explore our small town Kicevo.
+                </h3>
+                <h2 class="ion-text-center">
+                  Enjoy It!
+                </h2>
+              </ion-card-header>
+            </ion-card>
+          </ion-slide>
+
+          <ion-slide class="ion-padding">
+            <ion-card>
+              <ion-card-header>
+                <h3 class="ion-text-center" >
+                  Also you can check what Kicevo's night clubs offers for you!
+                </h3>
+                <img  src="assets/images/night1.jpg">
+                <h1>Party is always good idea in Kicevo!</h1>
+              </ion-card-header>
+            </ion-card>
+          </ion-slide>
+
+          <ion-slide class="ion-padding">
+            <ion-card>
+              <ion-card-header>
+                <h1 class="ion-text-center" >
+                  You can't find some place?
+                </h1>
+                <img  src="assets/images/map1.jpg">
+                <h3>We've marked all  places in case you can't find it.</h3>
+              </ion-card-header>
+            </ion-card>
+            <ion-button slot="end" (click)="goToHome()">Let's Go</ion-button>
+          </ion-slide>
+        </ion-slides>
+      </div>
+
+</ion-content>

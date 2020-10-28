@@ -1,0 +1,17 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>{{ place.state }}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content >
+  <ion-card class="ion-padding">
+    <h3>Place name : {{ place.name }}</h3>
+    <p>Location : {{ place.state }}</p>
+  </ion-card>
+  <div #map id="map"></div>
+</ion-content>
+
