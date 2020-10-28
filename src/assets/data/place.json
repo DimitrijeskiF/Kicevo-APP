@@ -1,0 +1,83 @@
+{
+  "places": [
+    {
+      "name": "Republika Club Restaurant",
+      "state" : "Kicevo",
+      "latitude":41.511017,
+      "longitude":20.956746
+    },
+    {
+      "name": "Club Image",
+      "state": "Kicevo",
+      "latitude":   41.511896,
+      "longitude":  20.963464
+    },
+    {
+      "name": "Lounge Bar New Age",
+      "state": "Kicevo",
+      "latitude":41.510669,
+      "longitude":20.958686
+    },
+    {
+      "name": "Lounge Bar Bacardi",
+      "state": "Kicevo",
+      "latitude":  41.510968,
+      "longitude": 20.957533
+
+    },
+    {
+      "name": "Atva Residence ",
+      "state": "Kicevo",
+      "latitude":  41.482635,
+      "longitude":20.897247
+    },
+    {
+      "name": "Check in 2018",
+      "state": "Kicevo",
+      "latitude": 41.515079,
+      "longitude": 20.962379
+    },
+    {
+      "name": "Club Maalo",
+      "state": "Kicevo",
+      "latitude": 41.511517,
+      "longitude":20.958837
+    },
+    {
+      "name": "Club Gravity",
+      "state": "Kicevo",
+      "latitude":41.511255,
+      "longitude":20.958807
+    },
+    {
+      "name": "Vintage",
+      "state": "Kicevo",
+      "latitude": 41.513057,
+      "longitude": 20.955810
+    },
+    {
+      "name": "The Monastery of St. Bogorodica Prechista",
+      "state": "Kicevo",
+      "latitude": 41.459360,
+      "longitude": 20.935772
+    },
+    {
+      "name": "The Monastery of Knezhino St. Georgija",
+      "state": "Kicevo",
+      "latitude": 41.516174,
+      "longitude": 20.922161
+    },
+    {
+      "name": "Museum Western Macedonia in the NOB",
+      "state": "Kicevo",
+      "latitude": 41.512730,
+      "longitude": 20.963741
+    },
+    {
+      "name": "Kitino Kale",
+      "state": "Kicevo",
+      "latitude": 41.512023,
+      "longitude":20.966699
+    }
+  ]
+}

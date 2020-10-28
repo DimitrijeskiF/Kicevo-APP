@@ -1,9 +1,47 @@
+<!-- <ion-header>
+  <ion-toolbar>
+    <ion-title>Spots</ion-title>
+    <ion-buttons slot="end">
+      <ion-button  color="primary" (click)="allPlaceMap()">
+        <ion-icon name="pin"></ion-icon>All Places
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header> -->
+
 <ion-header>
   <ion-toolbar>
-    <ion-title>
-      Tab Three
-    </ion-title>
+    <ion-title>Spots</ion-title>
+    <ion-buttons slot="end">
+      <ion-button  color="primary" (click)="allPlaceMap()">
+        <ion-icon name="pin"></ion-icon>All Places
+      </ion-button>
+    </ion-buttons>
   </ion-toolbar>
 </ion-header>
 
-<ion-content></ion-content>
+<div>
+  <ion-item class="ion-padding-left">
+    <ion-icon name="search" slot="end"></ion-icon>
+    <!--    <ion-label position="floating">Search Mapjs</ion-label>-->
+    <ion-input type="text" placeholder="Search Place..." (input)="searchMaps($event)"></ion-input>
+  </ion-item>
+</div>
+
+<ion-content>
+  <div>
+    <ion-list *ngIf="!isFiltered">
+      <ion-item *ngFor="let place of placeData" (click)="getPlaceDetails(place)">
+        <ion-icon name="pin"></ion-icon>{{place.name }}
+      </ion-item>
+    </ion-list>
+
+    <ion-list *ngIf="isFiltered">
+      <ion-item *ngFor="let place of filteredPlace" (click)="getPlaceDetails(place)">
+        <h2>
+          <ion-icon name="pin"></ion-icon>{{place.name }}
+        </h2>
+      </ion-item>
+    </ion-list>
+  </div>
+</ion-content>

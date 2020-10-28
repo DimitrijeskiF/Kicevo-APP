@@ -1,0 +1,10 @@
+<ion-card *ngFor="let note of notes">
+  <img [src]="note.image" />
+  <ion-card-header>
+    <ion-card-title>{{note.title}}</ion-card-title>
+  </ion-card-header>
+  <ion-card-content>
+    {{note.content}}
+  </ion-card-content>
+</ion-card>
+

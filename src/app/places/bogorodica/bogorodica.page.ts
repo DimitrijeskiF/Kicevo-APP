@@ -16,7 +16,7 @@ export class BogorodicaPage implements OnInit {
   }
 
   goBack() {
-    this.navCtrl.navigateBack('/tabs/tab2');
+    this.navCtrl.navigateBack('/tabs');
   }
 
 }

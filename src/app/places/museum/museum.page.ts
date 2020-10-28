@@ -14,6 +14,6 @@ export class MuseumPage implements OnInit {
   ngOnInit() {
   }
   goBack() {
-    this.navCtrl.navigateBack('/tabs/tab2');
+    this.navCtrl.navigateBack('/tabs');
   }
 }

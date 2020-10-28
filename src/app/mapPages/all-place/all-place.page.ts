@@ -49,3 +49,4 @@ export class AllPlacePage implements OnInit {
     placeMarker.setMap(this.map);
   }
 }
+
