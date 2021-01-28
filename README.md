@@ -7,7 +7,7 @@ The main idea behind this cross-platform application is easy navigation through 
   -Local Storage \
   -Camera Plugin
   
-  ##Icon and Splash Screen
+  ### Icon and Splash Screen
     <img src="https://i.ibb.co/fD394rD/Screenshot-20210126-195021.jpg"  height="400">
   ## Application Intro
   
