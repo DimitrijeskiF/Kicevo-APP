@@ -8,6 +8,6 @@ The main idea behind this cross-platform application is easy navigation through 
   -Camera Plugin
   
   ## Icon and Splash Screen
-    <img src="https://i.ibb.co/fD394rD/Screenshot-20210126-195021.jpg" width="200" height="400" alt="Italian Trulli">
+    <img src="https://i.ibb.co/fD394rD/Screenshot-20210126-195021.jpg" alt="Italian Trulli">
   ## Application Intro
   
