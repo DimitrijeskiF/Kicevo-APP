@@ -13,3 +13,10 @@ The main idea behind this cross-platform application is easy navigation through 
   ### Application Intro
   
   <img src="https://i.ibb.co/6wvnTFK/Screenshot-20210109-141143.jpg"  height="400">  <img src="https://i.ibb.co/HBsQYL6/Screenshot-20210109-141148.jpg"  height="400">  <img src="https://i.ibb.co/JtP9VXg/Screenshot-20210109-141153.jpg"  height="400">  <img src="https://i.ibb.co/SVR2Mwp/Screenshot-20210109-141201.jpg"  height="400">  
+  
+  ### Historical Places in Kicevo
+ <img src="https://i.ibb.co/7WSrCB7/Screenshot-20210109-141215.jpg"  height="400">  <img src="https://i.ibb.co/TrTCbV6/Screenshot-20210109-141223.jpg"  height="400">
+ 
+ ### Clubs in Kicevo
+ 
+  <img src="https://i.ibb.co/5nLTSvP/Screenshot-20210109-141230.jpg"  height="400">  <img src="https://i.ibb.co/DVQ28zD/Screenshot-20210109-141239.jpg"  height="400">
