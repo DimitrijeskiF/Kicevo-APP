@@ -20,3 +20,22 @@ The main idea behind this cross-platform application is easy navigation through 
  ### Clubs in Kicevo
  
   <img src="https://i.ibb.co/5nLTSvP/Screenshot-20210109-141230.jpg"  height="400">  <img src="https://i.ibb.co/DVQ28zD/Screenshot-20210109-141239.jpg"  height="400">
+  
+ ### Searching Places and Displaying on Map
+<img src="https://i.ibb.co/NYkJV5x/Screenshot-20210109-141245.jpg"  height="400">  <img src="https://i.ibb.co/HT7wQm6/Screenshot-20210109-141253.jpg"  height="400">  <img src="https://i.ibb.co/z6rvt5L/Screenshot-20210109-141319.jpg"  height="400">  <img src="https://i.ibb.co/s2brPxD/Screenshot-20210109-141338.jpg"  height="400"> 
+
+### Taking Notes
+
+<img src="https://i.ibb.co/MkxTZ7S/Screenshot-20210109-141357.jpg"  height="400">  <img src="https://i.ibb.co/555LVCc/Screenshot-20210109-141433.jpg"  height="400">  <img src="https://i.ibb.co/wsdSz8B/Screenshot-20210109-141445.jpg"  height="400">  <img src="https://i.ibb.co/6N0Mr6S/Screenshot-20210109-141450.jpg"  height="400"> 
+
+
+
+
+
+
+
+
+
+
+
+
